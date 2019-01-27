@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6517c718-9247-4bb4-bc06-28dc7228a3fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q1074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1074_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1874.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1874_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1874_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1974_replay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1992_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2261.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2263_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q7576.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q7569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q7576_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KaKaoPayAlgorithmTest/Q7576$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KaKaoPayAlgorithmTest/Q7576.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KaKaoPayAlgorithmTest/Q7576.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7576.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q7576.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +38,7 @@
     <session id="594904155">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
@@ -54,42 +47,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12205" />
+          <entry key="JAVA" value="15232" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q2263_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q1074.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q1074_2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -174,16 +143,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q7576.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+            <state relative-caret-position="282">
+              <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#807#816#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q7576_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="88" column="3" lean-forward="true" selection-start-line="80" selection-start-column="2" selection-end-line="88" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q7569.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="57" column="72" lean-forward="true" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,6 +187,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BFS</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -226,6 +221,8 @@
         <option value="$PROJECT_DIR$/src/Q1974_replay.java" />
         <option value="$PROJECT_DIR$/src/Q9012.java" />
         <option value="$PROJECT_DIR$/src/Q7576.java" />
+        <option value="$PROJECT_DIR$/src/Q7576_2.java" />
+        <option value="$PROJECT_DIR$/src/Q7569.java" />
       </list>
     </option>
   </component>
@@ -261,7 +258,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548578811059" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548586709504" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -277,21 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q7576">
-    <configuration name="Q1874_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1874_2" />
-      <module name="KaKaoPayAlgorithmTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1874_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1874_stack" />
-      <module name="KaKaoPayAlgorithmTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q7569">
     <configuration name="Q1974_replay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1974_replay" />
       <module name="KaKaoPayAlgorithmTest" />
@@ -299,8 +282,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q7569" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q7569" />
+      <module name="KaKaoPayAlgorithmTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q7576" />
+      <module name="KaKaoPayAlgorithmTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q7576_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q7576_2" />
       <module name="KaKaoPayAlgorithmTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -314,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q1874_2" />
-      <item itemvalue="Application.Q1874_stack" />
       <item itemvalue="Application.Q1974_replay" />
       <item itemvalue="Application.Q9012" />
       <item itemvalue="Application.Q7576" />
+      <item itemvalue="Application.Q7576_2" />
+      <item itemvalue="Application.Q7569" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q7569" />
+        <item itemvalue="Application.Q7576_2" />
         <item itemvalue="Application.Q7576" />
         <item itemvalue="Application.Q9012" />
         <item itemvalue="Application.Q1974_replay" />
-        <item itemvalue="Application.Q1874_stack" />
-        <item itemvalue="Application.Q1874_2" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +342,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="849" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -356,7 +352,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4293263" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47820345" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -578,6 +574,60 @@
           <line>63</line>
           <properties />
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q7569.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Q1074.java</url>
@@ -804,13 +854,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q7576.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+        <state relative-caret-position="282">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#807#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q7576_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="88" column="3" lean-forward="true" selection-start-line="80" selection-start-column="2" selection-end-line="88" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q7569.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="57" column="72" lean-forward="true" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
