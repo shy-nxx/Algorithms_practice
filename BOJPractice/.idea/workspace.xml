@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4da3e1b-41ab-45de-8ee6-8807ca386ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1074_DNC_Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1325_DFS_hacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1516_Indegree_building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1753_shortestpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ1890_BFS_jump_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1325.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1516.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1766.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1780.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1890.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1753_shortest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKCT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKCT/src/bead_BJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/Biz_escape_samsung_bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW12100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW12100_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW13460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW13460_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW14499.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW14503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW14503_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/Snake_samsung_bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14684_bruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/Operation_dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14500_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14500_re.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14502_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14888.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14888_dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/Tetrmino_dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/SW13458.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/SW14510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/SW14510_dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/expire_samsung_dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW14890.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW14890_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW15683.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW15683_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW7333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/Swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../estSoftCodingTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../estSoftCodingTest/src/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q1974_replay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2261.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2261.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2667_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2667_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1974_replay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1874_replay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2261.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2261.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2667_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2667_2.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1706633801">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10284" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BOJ1325_DFS_hacking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="15" column="34" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BOJ1516_Indegree_building.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="14" selection-start-line="11" selection-start-column="4" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q1753.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" selection-start-line="16" selection-start-column="3" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BOJ1753_shortestpath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q1766.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q1780.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q1890.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BOJ1890_BFS_jump_DP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q2261.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BOJ1074_DNC_Z.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="64" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Q1074.java" />
+        <option value="$PROJECT_DIR$/src/BOJ1074_DNC_Z.java" />
+        <option value="$PROJECT_DIR$/src/Q1325.java" />
+        <option value="$PROJECT_DIR$/src/BOJ1325_DFS_hacking.java" />
+        <option value="$PROJECT_DIR$/src/Q1516.java" />
+        <option value="$PROJECT_DIR$/src/BOJ1516_Indegree_building.java" />
+        <option value="$PROJECT_DIR$/src/Q1753.java" />
+        <option value="$PROJECT_DIR$/src/BOJ1753_shortestpath.java" />
+        <option value="$PROJECT_DIR$/src/Q1766.java" />
+        <option value="$PROJECT_DIR$/src/Q1780.java" />
+        <option value="$PROJECT_DIR$/src/Q1890.java" />
+        <option value="$PROJECT_DIR$/src/BOJ1890_BFS_jump_DP.java" />
+        <option value="$PROJECT_DIR$/src/Q2261.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="846" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BOJPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOJPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOJPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOJPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548915143645" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Q2261">
+    <configuration name="BOJ1890_BFS_jump_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1890_BFS_jump_DP" />
+      <module name="BOJPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1766" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1766" />
+      <module name="BOJPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1780" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1780" />
+      <module name="BOJPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1890" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1890" />
+      <module name="BOJPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2261" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2261" />
+      <module name="BOJPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Q1766" />
+      <item itemvalue="Application.Q1780" />
+      <item itemvalue="Application.Q1890" />
+      <item itemvalue="Application.BOJ1890_BFS_jump_DP" />
+      <item itemvalue="Application.Q2261" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q2261" />
+        <item itemvalue="Application.BOJ1890_BFS_jump_DP" />
+        <item itemvalue="Application.Q1890" />
+        <item itemvalue="Application.Q1780" />
+        <item itemvalue="Application.Q1766" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4da3e1b-41ab-45de-8ee6-8807ca386ebe" name="Default Changelist" comment="" />
+      <created>1548834338660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548834338660</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="846" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32893" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Q1074.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1325.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1516.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" selection-start-line="18" selection-start-column="4" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BOJ1325_DFS_hacking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="34" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BOJ1516_Indegree_building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" selection-start-line="11" selection-start-column="4" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1753.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" selection-start-line="16" selection-start-column="3" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BOJ1753_shortestpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1766.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1780.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q1890.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BOJ1890_BFS_jump_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BOJ1074_DNC_Z.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="64" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q2261.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

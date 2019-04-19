@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class Q1974_replay {
+public class Q1874_replay {
     /*
      입력값
         8
