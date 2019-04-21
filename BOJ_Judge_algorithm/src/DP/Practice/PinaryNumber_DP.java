@@ -31,7 +31,7 @@ public class PinaryNumber_DP {
             dp[i][1] = dp[i-1][0];
         }
 
-        System.out.println(dp[N][1]);
+        System.out.println(dp[N][1] + " " + dp[N][0]);
     }
 
 }

@@ -2,113 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b4784dd-ae58-40c0-a949-041df0ca1ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/BOJ1074_DNC_Z.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/BOJ1325_DFS_hacking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/BOJ1516_Indegree_building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/BOJ1753_shortestpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/BOJ1890_BFS_jump_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1325.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1516.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1766.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1780.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BOJPractice/src/Q1890.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1010_bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11048_move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11052_buy_card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11053_longest_sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11057_ascending_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1149_RGB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11726_2ntile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11727_2n_tile_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_14501_resign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1463_make_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1912_continuousSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1932_intTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2156_wine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2163_chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2193_pinary_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2293_coin1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2294_coin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2579_upstair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_9095_plus123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_9465_sticker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Bridge_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Buy_card_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Candy_move_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Coin_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Continuous_sum_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/IntTree_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Longest_sequence_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Make_one_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Plus123_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/RGB_Street_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Stickers_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Upstair_dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Wine_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoCodingTest/src/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1753_shortest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SKCT/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SKCT/src/bead_BJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/Biz_escape_samsung_bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW12100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW12100_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW13460.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW13460_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW14499.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW14503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/SW14503_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/BFS/Snake_samsung_bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14684_bruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14889.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/Operation_dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14500_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14500_re.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14502_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14888.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/SW14888_dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/Tetrmino_dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/Make_one_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/SW13458.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/SW14510.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/SW14510_dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DP/expire_samsung_dp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW14890.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW14890_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW15683.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW15683_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW7333.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/Swimming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estSoftCodingTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estSoftCodingTest/src/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q1974_replay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2261.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2261.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2667_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/out/production/KaKaoPayAlgorithmTest/Q2667_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1974_replay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q1874_replay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2261.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2261.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2667_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/src/Q2667_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_11055_sum_of_largest_sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_11722_longest_reduce_sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_1520_downside_street.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_1890_jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_2133_fill_of_tiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/DP_9251_LCS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Binomial_coefficient_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Build_bridge_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Coin2_re_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Jump_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/LCS_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Resign_re_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_1699_sum_of_pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_1699_sum_of_pow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Coin2_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Coin2_DP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/PinaryNumber_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/PinaryNumber_DP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Resign_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Resign_DP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,21 +40,23 @@
     <session id="1266602462">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="66" />
+          <entry key="JAVA" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39029" />
+          <entry key="JAVA" value="51787" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -144,10 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Resign_DP.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/DP_1520_downside_street.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-206">
-              <caret line="28" lean-forward="true" selection-start-line="23" selection-end-line="28" />
+            <state relative-caret-position="272">
+              <caret line="28" lean-forward="true" selection-start-line="22" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,10 +77,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="11" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="145">
+              <caret line="22" lean-forward="true" selection-start-line="19" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,10 +89,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_2294_coin2.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/DP_1890_jump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="-286">
+              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,34 +101,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Jump_DP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="21" selection-start-line="16" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_11048_move.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="33" column="85" selection-start-line="33" selection-start-column="85" selection-end-line="33" selection-end-column="85" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Candy_move_DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="300">
+              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -216,46 +113,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Coin_DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Upstair_dp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="20" column="49" lean-forward="true" selection-start-line="16" selection-end-line="20" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -283,15 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/DP_1463_make_one.java" />
-        <option value="$PROJECT_DIR$/src/DP/Make_one_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_9095_Plus123.java" />
-        <option value="$PROJECT_DIR$/src/DP/Plus123.java" />
-        <option value="$PROJECT_DIR$/src/DP/Plus123_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Upstair_dp.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_1149_RGB.java" />
-        <option value="$PROJECT_DIR$/src/DP/RGB_Street_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2193_pinary_number.java" />
         <option value="$PROJECT_DIR$/src/DP/PinaryNumber_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_1932_intTriangle.java" />
         <option value="$PROJECT_DIR$/src/DP/IntTree_DP.java" />
@@ -316,15 +168,33 @@
         <option value="$PROJECT_DIR$/src/DP/DP_2293_coin1.java" />
         <option value="$PROJECT_DIR$/src/DP/Practice/Coin_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_14501_resign.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_11057_ascending_num.java" />
         <option value="$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_2294_coin2.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_11048_move.java" />
         <option value="$PROJECT_DIR$/src/DP/Practice/Candy_move_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Build_bridge_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Resign_re_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Coin2_re_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_11055_sum_of_largest_sequence.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient_2.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Binomial_coefficient_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_2133_fill_of_tiles.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_9251_LCS.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/LCS_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_11722_longest_reduce_sequence.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_1520_downside_street.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_1890_jump.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Jump_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java" />
       </list>
     </option>
   </component>
@@ -339,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -370,10 +239,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555673423262" />
+    <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555823610939" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -388,9 +259,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DP_1699_sum_of_pow">
-    <configuration name="Candy_move_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Practice.Candy_move_DP" />
+  <component name="RunManager" selected="Application.Jump_DP">
+    <configuration name="DP_11722_longest_reduce_sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.DP_11722_longest_reduce_sequence" />
+      <module name="BOJ_Judge_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DP_1520_downside_street" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.DP_1520_downside_street" />
+      <module name="BOJ_Judge_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DP_1890_jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.DP_1890_jump" />
+      <module name="BOJ_Judge_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Descending_map_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Practice.Descending_map_DP" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -402,51 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coin2_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Practice.Coin2_DP" />
+    <configuration name="Jump_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Practice.Jump_DP" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP_11048_move" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_11048_move" />
-      <module name="BOJ_Judge_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP_1699_sum_of_pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_1699_sum_of_pow" />
-      <module name="BOJ_Judge_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP_2294_coin2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_2294_coin2" />
-      <module name="BOJ_Judge_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DP_2294_coin2" />
-      <item itemvalue="Application.Coin2_DP" />
-      <item itemvalue="Application.DP_11048_move" />
-      <item itemvalue="Application.Candy_move_DP" />
-      <item itemvalue="Application.DP_1699_sum_of_pow" />
+      <item itemvalue="Application.DP_11722_longest_reduce_sequence" />
+      <item itemvalue="Application.DP_1520_downside_street" />
+      <item itemvalue="Application.Descending_map_DP" />
+      <item itemvalue="Application.DP_1890_jump" />
+      <item itemvalue="Application.Jump_DP" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DP_1699_sum_of_pow" />
-        <item itemvalue="Application.Candy_move_DP" />
-        <item itemvalue="Application.DP_11048_move" />
-        <item itemvalue="Application.Coin2_DP" />
-        <item itemvalue="Application.DP_2294_coin2" />
+        <item itemvalue="Application.Jump_DP" />
+        <item itemvalue="Application.DP_1890_jump" />
+        <item itemvalue="Application.Descending_map_DP" />
+        <item itemvalue="Application.DP_1520_downside_street" />
+        <item itemvalue="Application.DP_11722_longest_reduce_sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +359,7 @@
     <frame x="0" y="23" width="1440" height="846" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15736766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20314735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -497,7 +368,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.331565" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42175066" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -520,121 +391,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2579_upstair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2156_wine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/IntTree_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Make_one_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Plus123_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/RGB_Street_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Wine_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="27" lean-forward="true" selection-start-line="22" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_1912_continuousSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="20" lean-forward="true" selection-start-line="14" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Longest_sequence_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Continuous_sum_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="11" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11726_2ntile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2193_pinary_number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" selection-start-line="20" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_1149_RGB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-223">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_1463_make_one.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DP_9095_plus123.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2163_chocolate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -651,60 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_9465_sticker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11052_buy_card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="37" selection-start-line="32" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11053_longest_sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11727_2n_tile_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/Practice/Buy_card_DP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_1010_bridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="21" selection-start-line="16" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -721,90 +431,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2293_coin1.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="59" column="49" lean-forward="true" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Bridge_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="24" lean-forward="true" selection-start-line="19" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11057_ascending_num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" lean-forward="true" selection-start-line="16" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="17" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_14501_resign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="49" column="33" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Resign_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="28" lean-forward="true" selection-start-line="23" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Upstair_dp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="20" column="49" lean-forward="true" selection-start-line="16" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="210">
+          <caret line="17" column="1" selection-start-line="11" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -813,38 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DP_2294_coin2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="405">
           <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="11" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Coin_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Candy_move_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -853,8 +453,237 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DP_11048_move.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
+        <state relative-caret-position="450">
           <caret line="33" column="85" selection-start-line="33" selection-start-column="85" selection-end-line="33" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Make_one_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Plus123_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Upstair_dp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="49" selection-start-line="16" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/RGB_Street_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/IntTree_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Wine_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Continuous_sum_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" lean-forward="true" selection-start-line="11" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="60" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11727_2n_tile_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11053_longest_sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Bridge_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="26" column="2" selection-start-line="19" selection-end-line="26" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_2163_chocolate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_9465_sticker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_2293_coin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="59" column="49" lean-forward="true" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_14501_resign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11052_buy_card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-218">
+          <caret line="37" selection-start-line="32" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Resign_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Build_bridge_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Resign_re_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_1912_continuousSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11057_ascending_num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" lean-forward="true" selection-start-line="17" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Coin_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -863,8 +692,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" selection-start-line="16" selection-end-line="21" />
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="16" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Coin2_re_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11055_sum_of_largest_sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="14" selection-end-line="46" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -873,8 +722,155 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="540">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="5" selection-start-line="13" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="1" selection-start-line="11" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Binomial_coefficient_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11726_2ntile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_1010_bridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/LCS_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="40" column="67" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_2133_fill_of_tiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="29" lean-forward="true" selection-start-line="23" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_11722_longest_reduce_sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_9251_LCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="2" selection-start-line="14" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Candy_move_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_1520_downside_street.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" lean-forward="true" selection-start-line="22" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_1890_jump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Jump_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="22" lean-forward="true" selection-start-line="19" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

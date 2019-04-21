@@ -3,15 +3,14 @@ package DP.Practice;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.Array;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Coin2_DP {
+public class Coin2_re_DP {
     /**
-     * 경우의 수 구하는 것과 비슷한 방식으로 진행하지만 최소값을 구하기 위해 dp[0] = 0 으로 두고 dp를 정수의 최대값으로 초기화헌다.
-     * dp[j]와 dp[j-coin[i]] + 1을 비교하여 최소값을 저장한다.
-     * dp[k] == 정수의 최대값일 경우 불가능한 경우이므로 -1을 출력한다.
+     * 동전의 최소 개수이므로 현재 금액에서 해당 가치의 동전을 뺀 금액에서 동전을 추가하는 개수와 이전 동전에서 구한 개수 중 최소값을 도출하낟.
+     * 불가능한 경우를 추려내기 위해 모든 배열의 값을 1001(max)로 설정한다.
+     * <p>
+     * dp[0] = 0; (0원을 만들 때는 0개의 동전이 필요하다)
      */
 
     public static void main(String[] args) throws IOException {
@@ -23,26 +22,25 @@ public class Coin2_DP {
 
         int[] coins = new int[N+1];
 
-        for (int i = 0; i < N; i++) {
+        for (int i = 1; i <= N; i++ ) {
             st = new StringTokenizer(br.readLine());
             coins[i] = Integer.parseInt(st.nextToken());
         }
 
         int[] dp = new int[K+1];
 
-        Arrays.fill(dp, 1001);
+        for (int i = 1; i <= K; i++) {
+            dp[i] = 1001;
+        }
 
         dp[0] = 0;
 
-        for (int i = 0; i < N; i++) {
-            for (int j = coins[i]; j <= K; j++) {
-                dp[j] = Math.min(dp[j], dp[j - coins[i]] + 1);
-                System.out.println(j + " " + dp[j] + " " + dp[j-coins[i]]);
+        for (int i = 1; i<= N; i++) {
+            for (int j = coins[i]; j<= K; j++) {
+               dp[j] = Math.min(dp[j], dp[j-coins[i]] + 1);
             }
         }
 
         System.out.println((dp[K] == 1001) ? -1 : dp[K]);
-
-
     }
 }

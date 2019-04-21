@@ -55,8 +55,8 @@ public class Resign_DP {
 
         for (int i = 2; i <= N; i++) {
             for (int j = 1; j < i; j++ ) {
-                if (i-j >= t[i]) {
-                    System.out.println( i + " " + j + " " + t[i] + " " + p[i]);
+                if (i - j >= t[j]) {
+                    System.out.println(i + " " + j + " " + t[i] + " " + dp[i] + " " + (dp[j] + p[i]));
                     dp[i] = Math.max(dp[i], dp[j] + p[i]);
                 }
             }
