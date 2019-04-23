@@ -2,32 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b4784dd-ae58-40c0-a949-041df0ca1ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11055_sum_of_largest_sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_11722_longest_reduce_sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1520_downside_street.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_1890_jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2133_fill_of_tiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/DP_9251_LCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Binomial_coefficient_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Build_bridge_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Coin2_re_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Jump_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/LCS_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Resign_re_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_10026_RGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_1012_organic_cabbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_13460_escape_biz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_1679_hideandfind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_2589_treasure_map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_3055_escape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/DFS_2644_degree_of_kinship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Dijkstra_graph/DFS_1389_kevin_Bacon_principle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/Degree_of_kinship_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/Escape_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/HideAndFind_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/Kevin_bacon_6thprinciple_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/Organic_cabbage_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/RGB_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/StartLink_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/BFS_11403_find_path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/BFS_14502_laboratory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/BFS_2583_find_area_width.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/BackTracking/Laboratory_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/DFS_11724_count_of_link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/DFS_2468_safe_area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/Organic_cabbage_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Connected_component_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Find_path_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Safe_area_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Practice/Sum_decomposition_DP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_1699_sum_of_pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_1699_sum_of_pow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Coin2_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Coin2_DP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/PinaryNumber_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/PinaryNumber_DP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Resign_DP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/Practice/Resign_DP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/SKCT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/src/DP_Codility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SKCT/src/bead_BJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SamsungSWTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SamsungSWTest/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,24 +53,24 @@
     <session id="1266602462">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="112" />
+          <entry key="JAVA" value="143" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="51787" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="92271" />
+          <entry key="PLAIN_TEXT" value="35" />
         </counts>
       </usages-collector>
     </session>
@@ -65,10 +78,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_1520_downside_street.java">
+        <entry file="file://$PROJECT_DIR$/src/BFS/Practice/Degree_of_kinship_BFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="28" lean-forward="true" selection-start-line="22" selection-end-line="28" />
+            <state relative-caret-position="355">
+              <caret line="26" lean-forward="true" selection-start-line="21" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,10 +90,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_13460_escape_biz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="22" lean-forward="true" selection-start-line="19" selection-end-line="22" />
+            <state relative-caret-position="-61">
+              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,10 +102,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_1890_jump.java">
+        <entry file="file://$PROJECT_DIR$/src/BFS/Dijkstra_graph/DFS_1389_kevin_Bacon_principle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-286">
-              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+            <state relative-caret-position="-5">
+              <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,10 +114,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Jump_DP.java">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_2589_treasure_map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="322">
+              <caret line="40" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="64" column="55" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BFS/Practice/StartLink_BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_3055_escape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="116" column="23" lean-forward="true" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BFS/Practice/Escape_BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,10 +174,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java">
+        <entry file="file://$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_1679_hideandfind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79">
+              <caret line="52" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,7 +209,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>2차원</find>
+      <find>graph</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/DFS</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -144,44 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DP/PinaryNumber_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_1932_intTriangle.java" />
-        <option value="$PROJECT_DIR$/src/DP/IntTree_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2579_upstair.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2156_wine.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Wine_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_1912_continuousSum.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Continuous_sum_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_10844_easy_upstair.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_11727_2n_tile_2.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_11726_2ntile.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_11053_longest_sequence.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Longest_sequence_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_11052_buy_card.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Buy_card_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_1010_bridge.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Bridge_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2163_chocolate.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_9465_sticker.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Stickers_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2293_coin1.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Coin_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_14501_resign.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_11057_ascending_num.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_2294_coin2.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_11048_move.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Candy_move_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/DP_1699_sum_of_pow.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Build_bridge_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Resign_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Resign_re_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Coin2_DP.java" />
-        <option value="$PROJECT_DIR$/src/DP/Practice/Coin2_re_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_11055_sum_of_largest_sequence.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_11051_binomial_coefficient_2.java" />
@@ -194,7 +233,45 @@
         <option value="$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_1890_jump.java" />
         <option value="$PROJECT_DIR$/src/DP/Practice/Jump_DP.java" />
+        <option value="$PROJECT_DIR$/src/DP/Practice/Sum_decomposition_DP.java" />
         <option value="$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_1679_hideandfind.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/HideAndFind_DP.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_1012_organic_cabbage.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/Organic_cabbage_BFS.java" />
+        <option value="$PROJECT_DIR$/src/DFS/Organic_cabbage_DFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_11403_find_path.java" />
+        <option value="$PROJECT_DIR$/src/DFS/BFS_11403_find_path.java" />
+        <option value="$PROJECT_DIR$/src/DFS/Practice/Find_path_DFS.java" />
+        <option value="$PROJECT_DIR$/src/DFS/DFS_11724_count_of_link.java" />
+        <option value="$PROJECT_DIR$/src/DFS/Practice/Connected_component_DFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_14502_laboratory.java" />
+        <option value="$PROJECT_DIR$/src/DFS/Practice/Laboratory_DFS.java" />
+        <option value="$PROJECT_DIR$/src/DFS/BFS_14502_laboratory.java" />
+        <option value="$PROJECT_DIR$/src/DFS/BackTracking/Laboratory_DFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_2583_find_area_width.java" />
+        <option value="$PROJECT_DIR$/src/DFS/BFS_2583_find_area_width.java" />
+        <option value="$PROJECT_DIR$/src/DFS/DFS_2468_safe_area.java" />
+        <option value="$PROJECT_DIR$/src/DFS/Practice/Safe_area_DFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_10026_RGB.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/RGB_BFS.java" />
+        <option value="$PROJECT_DIR$/src/DFS/DFS_2644_degree_of_kinship.java" />
+        <option value="$PROJECT_DIR$/src/BFS/DFS_2644_degree_of_kinship.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/Degree_of_kinship_BFS.java" />
+        <option value="$PROJECT_DIR$/src/DFS/DFS_1389_kevin_Bacon_principle.java" />
+        <option value="$PROJECT_DIR$/src/BFS/DFS_1389_kevin_Bacon_principle.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Dijkstra_graph/DFS_1389_kevin_Bacon_principle.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/Kevin_bacon_6thprinciple_BFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_2589_precious_map.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_2589_treasure_map.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/StartLink_BFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_3055_escape.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Escape_BFS.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS_13460_escape_biz.java" />
+        <option value="$PROJECT_DIR$/src/BFS/Practice/Escape_BFS.java" />
+        <option value="$PROJECT_DIR$/src/DFS/DFS_1707_binary_graph.java" />
+        <option value="$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java" />
       </list>
     </option>
   </component>
@@ -226,14 +303,40 @@
               <item name="BOJ_Judge_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="BOJ_Judge_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
+              <item name="BFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOJ_Judge_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOJ_Judge_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOJ_Judge_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOJ_Judge_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOJ_Judge_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOJ_Judge_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+              <item name="BackTracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOJ_Judge_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOJ_Judge_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BOJ_Judge_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="BOJ_Judge_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DP" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +347,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555823610939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556019574608" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -259,13 +362,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Jump_DP">
-    <configuration name="DP_11722_longest_reduce_sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_11722_longest_reduce_sequence" />
+  <component name="RunManager" selected="Application.Escape_BFS">
+    <configuration name="BFS_2589_treasure_map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.BFS_2589_treasure_map" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="BFS.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +376,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP_1520_downside_street" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_1520_downside_street" />
+    <configuration name="BFS_3055_escape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.BFS_3055_escape" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="BFS.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +389,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP_1890_jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_1890_jump" />
+    <configuration name="BFS_5014_startLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.BFS_5014_startLink" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="BFS.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +402,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Descending_map_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Practice.Descending_map_DP" />
+    <configuration name="Escape_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.Practice.Escape_BFS" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.Practice.*" />
+          <option name="PATTERN" value="BFS.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +415,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jump_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Practice.Jump_DP" />
+    <configuration name="StartLink_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.Practice.StartLink_BFS" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.Practice.*" />
+          <option name="PATTERN" value="BFS.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,19 +429,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DP_11722_longest_reduce_sequence" />
-      <item itemvalue="Application.DP_1520_downside_street" />
-      <item itemvalue="Application.Descending_map_DP" />
-      <item itemvalue="Application.DP_1890_jump" />
-      <item itemvalue="Application.Jump_DP" />
+      <item itemvalue="Application.BFS_2589_treasure_map" />
+      <item itemvalue="Application.BFS_5014_startLink" />
+      <item itemvalue="Application.StartLink_BFS" />
+      <item itemvalue="Application.BFS_3055_escape" />
+      <item itemvalue="Application.Escape_BFS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Jump_DP" />
-        <item itemvalue="Application.DP_1890_jump" />
-        <item itemvalue="Application.Descending_map_DP" />
-        <item itemvalue="Application.DP_1520_downside_street" />
-        <item itemvalue="Application.DP_11722_longest_reduce_sequence" />
+        <item itemvalue="Application.Escape_BFS" />
+        <item itemvalue="Application.BFS_3055_escape" />
+        <item itemvalue="Application.StartLink_BFS" />
+        <item itemvalue="Application.BFS_5014_startLink" />
+        <item itemvalue="Application.BFS_2589_treasure_map" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +462,7 @@
     <frame x="0" y="23" width="1440" height="846" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20314735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22031474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -368,7 +471,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42175066" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4071618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,277 +489,43 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22031474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4071618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32891247" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_9095_plus123.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_1932_intTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Buy_card_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Stickers_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2167_sumof2ndDimension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="1" selection-start-line="11" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2294_coin2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11048_move.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="85" selection-start-line="33" selection-start-column="85" selection-end-line="33" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Make_one_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Plus123_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Upstair_dp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="20" column="49" selection-start-line="16" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/RGB_Street_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/PinaryNumber_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/IntTree_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Wine_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Continuous_sum_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="16" lean-forward="true" selection-start-line="11" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="60" lean-forward="true" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11727_2n_tile_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11053_longest_sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Bridge_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="26" column="2" selection-start-line="19" selection-end-line="26" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2163_chocolate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_9465_sticker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2293_coin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="59" column="49" lean-forward="true" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_14501_resign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_11052_buy_card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="37" selection-start-line="32" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Resign_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="58" column="34" lean-forward="true" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Build_bridge_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Resign_re_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_1912_continuousSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DP_11057_ascending_num.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,9 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="22" lean-forward="true" selection-start-line="17" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,9 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,9 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" lean-forward="true" selection-start-line="16" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,9 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
           <caret line="46" column="5" lean-forward="true" selection-start-line="14" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="24" column="5" selection-start-line="13" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,9 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="1" selection-start-line="11" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,9 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,9 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -781,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
           <caret line="40" column="67" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="29" lean-forward="true" selection-start-line="23" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,9 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="2" selection-start-line="14" selection-end-line="21" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,9 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,9 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="28" lean-forward="true" selection-start-line="22" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,36 +659,271 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-286">
           <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Jump_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/Practice/Descending_map_DP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="22" lean-forward="true" selection-start-line="19" selection-end-line="22" />
+        <state relative-caret-position="285">
+          <caret line="22" selection-start-line="19" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Jump_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="14" selection-start-column="1" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" selection-start-line="14" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Sum_decomposition_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/HideAndFind_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_1012_organic_cabbage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="33" selection-start-line="28" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_2225_sum_decomposition.java">
+    <entry file="file://$PROJECT_DIR$/src/DFS/BackTracking/Laboratory_DFS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="857">
+          <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/Organic_cabbage_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/Organic_cabbage_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" selection-start-line="17" selection-start-column="1" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/Practice/Find_path_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" selection-start-line="14" selection-start-column="1" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/Practice/Connected_component_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/BFS_14502_laboratory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="66" selection-start-line="63" selection-start-column="2" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/BFS_2583_find_area_width.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_2468_safe_area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/Practice/Safe_area_DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_10026_RGB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="45" column="3" selection-start-line="40" selection-end-line="45" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/BFS_11403_find_path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" selection-start-line="16" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/RGB_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="28" selection-start-line="23" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_11724_count_of_link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="21" selection-start-line="16" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/DFS_2644_degree_of_kinship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/Kevin_bacon_6thprinciple_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-334">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/Degree_of_kinship_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" lean-forward="true" selection-start-line="21" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_1679_hideandfind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="52" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/StartLink_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Dijkstra_graph/DFS_1389_kevin_Bacon_principle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_3055_escape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="116" column="23" lean-forward="true" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_13460_escape_biz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="64" column="55" lean-forward="true" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/Practice/Escape_BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_2589_treasure_map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="40" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
