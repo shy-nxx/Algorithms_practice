@@ -41,6 +41,13 @@ public class SW14890 {
             }
         }
 
+//        for (int i = 0; i < N*2; i++) {
+//
+//            for (int j = 0; j < N; j++) {
+//                System.out.print(map[i][j] + " ");
+//            }
+//            System.out.println();
+//        }
         /**
          * 6 2
          * 3 3 3 3 3 3 -> ok
