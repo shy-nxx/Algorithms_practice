@@ -58,12 +58,13 @@ public class SW14889 {
         System.out.println(min);
     }
 
-    //dfs 백트래킹 - DFS를 통해 두 팀을 나누는 경우를 구한다.
-    public static void DFS(int v, int len) {
+    //DFS를 통해 두 팀을 나누는 경우를 구한다.
+    public static void DFS(int cur, int len) {
         if (N/2 == len) { //팀나누기
             divideTeam();
+
         } else {
-            for (int i = v + 1; i <= N; i++) {
+            for (int i = cur + 1; i <= N; i++) {
                 if (!visited[i]) {
                     visited[i] = true;
                     DFS(i, len+1);
@@ -71,14 +72,14 @@ public class SW14889 {
             }
 
         }
-        visited[v] = false;
+        visited[cur] = false;
 
     }
 
     //구해진 경우에서의 두 팀을 배열로 나타낸다.
     public static void divideTeam(){
-        int[] a = new int[N/2+1];
-        int[] b = new int[N/2+1];
+        int[] a = new int[N+1];
+        int[] b = new int[N+1];
 
         int ai = 1, bi = 1;
 
@@ -91,31 +92,22 @@ public class SW14889 {
             }
         }
 
-        for (int i = 1; i <= N/2; i++) {
-            System.out.print(a[i] + " ");
-        }
-        System.out.println();
-        for (int i = 1; i <= N/2; i++) {
-            System.out.print(b[i] + " ");
-        }
-        System.out.println();
+        int aPerform = getSum(a);
+        int bPerform = getSum(b);
+        int diff = Math.abs(aPerform - bPerform);
 
-        int aStat = getState(a);
-        int bStat = getState(b);
-        int diff = Math.abs(aStat - bStat);
+        min = Math.min(min, diff);
 
-        if (min > diff)
-            min = diff;
-
-        System.out.println(aStat + " " + bStat + " " + diff);
     }
 
-    static int getState(int[] team) {
+
+    static int getSum(int[] team) {
         int result = 0;
         int len = N/2;
 
         for (int i = 1; i <= len; i++) {
             for (int j = 1; j <= len; j++) {
+                if (i >= j) continue;
                 result += matrix[team[i]][team[j]];
                 result += matrix[team[j]][team[i]];
             }

@@ -2,75 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b4784dd-ae58-40c0-a949-041df0ca1ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_1726_robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_2146_build_bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_2206_moveThroughWalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/BFS_5427_fire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/Build_bridge_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/MovingThroughWalls_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/Practice/Robot_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/BFS_11559_puyopuyo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/BFS_2251_bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/BFS_2573_iceberg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/DFS_1613_history.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/DFS_2842_postman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Bipartite_graph_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Bottles_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Iceberg_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Puyopuyo_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/Practice/Robot_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/BFS_1613_history.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/DFS_2617_find_biz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/MST/BFS_9372_travel_of_sanggin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Practice/Travel_of_sanggin_MST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/BFS/BFS_1697_hideandfind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/BFS/BFS_2206_movingThroughWalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/BFS/BFS_2644_blood_kinship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/BFS/Practice/Blood_kinship_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/BFS/Practice/MoveThroughWalls_1_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/BFS/Practice/MovingThroughWalls_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DFS/DFS_1012_organic_cabbage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DFS/DFS_11403_find_path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DFS/DFS_Backtracking_14502_laboratory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_1010_build_bridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_10844_easy_stair_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_11052_buy_cards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_11053_Longest_increasing_sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_1309_zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_14501_resign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_1912_continuous_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_1932_IntegerTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_1937_greedy_panda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_1965_push_boxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_2156_wine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_2193_pinary_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_2293_coin1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_6359_drunken_sangbum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/DP_9095_plus_123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/DP/Practice/Zoo_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/GRAPH/Dijkstra/BFS_1389_kevin_bacon_principle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/GRAPH/GRAPH_11403_find_path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/GRAPH/Practice/Kevin_bacon_6thprinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/String_Process/Practice/String_1032_prompt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/String_Process/Practice/String_1316_group_words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/String_Process/String_1032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/String_Process/String_1100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/String_Process/String_2789.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/src/String_Process/String_9935.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW14891.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SW5686.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/SWEA_5658.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/Simulation/SWEA_2105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SamsungSWTest/src/Simulation/SWEA_5644.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/SWEA_2112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/SWEA_2383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/BOJ_2098.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOJPractice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_9095_plus123.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_9095_plus123.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_9465_sticker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/DP/DP_9465_sticker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/DP_9095_plus123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DP_9095_plus123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/DP_9465_sticker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DP_9465_sticker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/SWEA_5658.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BOJ_Judge_algorithm/SWEA_5658.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KaKaoPayAlgorithmTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KoreaChemical_CodingTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KoreaChemical_CodingTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/caches/identified-project-coordinates.json" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_i.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_j" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/SWEA_algorithms/bin/d2/SWEA_1962.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/SWEA_algorithms/bin/d2/SWEA_1962.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SWEA/SWEA_algorithms/src/d2/SWEA_1962.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SWEA/SWEA_algorithms/src/d2/SWEA_1962.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SamsungSWTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SamsungSWTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SamsungSWTest/out/production/SamsungSWTest/DFS/BackTracking/SW14889.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SamsungSWTest/out/production/SamsungSWTest/DFS/BackTracking/SW14889.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14889.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SamsungSWTest/src/DFS/BackTracking/SW14889.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,26 +39,26 @@
     <session id="1266602462">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
-          <entry key="project.open.time.1" value="5" />
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="10" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.7" value="13" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="228" />
+          <entry key="JAVA" value="237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="133114" />
+          <entry key="JAVA" value="136856" />
           <entry key="PLAIN_TEXT" value="44" />
         </counts>
       </usages-collector>
@@ -111,40 +67,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SWEA_5658.java">
+        <entry file="file://$PROJECT_DIR$/src/DFS/DFS_2842_postman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="210">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DP/BOJ_2098.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_2112.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="107" column="5" selection-start-line="52" selection-end-line="107" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_5656.java">
+        <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_2383.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="677">
-              <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-571">
+              <caret line="104" column="81" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="81" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DFS/DFS_2842_postman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_1520_downside_street.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -153,40 +127,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP/DP_2579_upstair.java">
+        <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph/MST/BFS_9372_travel_of_sanggin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" selection-start-line="24" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/BFS_2589_treasure_map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph/DFS_2617_find_biz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="525">
+              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -227,6 +171,9 @@
       <find>Compare</find>
       <find>dir</find>
       <find>내려와</find>
+      <find>스타트</find>
+      <find>14889</find>
+      <find>link</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/DFS</dir>
@@ -238,11 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BFS/Practice/Degree_of_kinship_BFS.java" />
-        <option value="$PROJECT_DIR$/src/DFS/DFS_1389_kevin_Bacon_principle.java" />
-        <option value="$PROJECT_DIR$/src/BFS/DFS_1389_kevin_Bacon_principle.java" />
-        <option value="$PROJECT_DIR$/src/BFS/Dijkstra_graph/DFS_1389_kevin_Bacon_principle.java" />
-        <option value="$PROJECT_DIR$/src/BFS/Practice/Kevin_bacon_6thprinciple_BFS.java" />
         <option value="$PROJECT_DIR$/src/BFS/BFS_2589_precious_map.java" />
         <option value="$PROJECT_DIR$/src/BFS/BFS_2589_treasure_map.java" />
         <option value="$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java" />
@@ -289,6 +231,11 @@
         <option value="$PROJECT_DIR$/src/DFS/DFS_2842_postman.java" />
         <option value="$PROJECT_DIR$/src/DFS/SWEA_5656.java" />
         <option value="$PROJECT_DIR$/src/SWEA_5658.java" />
+        <option value="$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java" />
+        <option value="$PROJECT_DIR$/src/DP/BOJ_2098.java" />
+        <option value="$PROJECT_DIR$/src/DFS/SWEA_2112.java" />
+        <option value="$PROJECT_DIR$/src/DFS/SWEA_2383.java" />
+        <option value="$PROJECT_DIR$/src/DFS/SWEA_2383_sol.java" />
       </list>
     </option>
   </component>
@@ -304,6 +251,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -379,12 +327,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="{&#9;null&#9;null" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556883348934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557844939609" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -399,35 +346,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SWEA_5658">
-    <configuration name="DFS_2617_find_biz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.DFS_2617_find_biz" />
-      <module name="BOJ_Judge_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFS_2842_postman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.DFS_2842_postman" />
-      <module name="BOJ_Judge_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP_14501_resign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_14501_resign" />
+  <component name="RunManager" selected="Application.SWEA_2383_sol">
+    <configuration name="BOJ_2098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.BOJ_2098" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -439,8 +360,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_5656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.SWEA_5656" />
+    <configuration name="DP_10844_easy_upstair_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.DP_10844_easy_upstair_num" />
+      <module name="BOJ_Judge_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_2112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.SWEA_2112" />
       <module name="BOJ_Judge_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -452,27 +386,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_5658" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_5658" />
+    <configuration name="SWEA_2383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.SWEA_2383" />
       <module name="BOJ_Judge_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWEA_2383_sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.SWEA_2383_sol" />
+      <module name="BOJ_Judge_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DFS_2617_find_biz" />
-      <item itemvalue="Application.DFS_2842_postman" />
-      <item itemvalue="Application.DP_14501_resign" />
-      <item itemvalue="Application.SWEA_5656" />
-      <item itemvalue="Application.SWEA_5658" />
+      <item itemvalue="Application.DP_10844_easy_upstair_num" />
+      <item itemvalue="Application.BOJ_2098" />
+      <item itemvalue="Application.SWEA_2112" />
+      <item itemvalue="Application.SWEA_2383" />
+      <item itemvalue="Application.SWEA_2383_sol" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SWEA_5658" />
-        <item itemvalue="Application.SWEA_5656" />
-        <item itemvalue="Application.DP_14501_resign" />
-        <item itemvalue="Application.DFS_2842_postman" />
-        <item itemvalue="Application.DFS_2617_find_biz" />
+        <item itemvalue="Application.SWEA_2383_sol" />
+        <item itemvalue="Application.SWEA_2383" />
+        <item itemvalue="Application.SWEA_2112" />
+        <item itemvalue="Application.BOJ_2098" />
+        <item itemvalue="Application.DP_10844_easy_upstair_num" />
       </list>
     </recent_temporary>
   </component>
@@ -491,8 +444,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="846" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29971388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -501,7 +455,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24933687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17108753" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39920425" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -552,48 +506,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_11724_count_of_link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" selection-start-line="16" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph/BFS_1613_history.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_1707_Bipartite_Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_1613_history.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" selection-start-line="58" selection-end-line="63" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/Practice/Robot_DFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/BFS_2251_bottle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DFS/Practice/Find_path_DFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -664,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DP/DP_11053_longest_sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-193">
@@ -717,13 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="22" selection-start-line="19" selection-start-column="1" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="64" column="55" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -843,16 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_2842_postman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -860,6 +748,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_5656.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -888,9 +786,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/DP_10844_easy_upstair_num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="50" selection-start-line="45" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/DFS_2842_postman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/BOJ_2098.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_2112.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="107" column="5" selection-start-line="52" selection-end-line="107" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS_5014_startLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_num_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/Practice/Ascending_nums_re_DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -908,13 +858,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_5656.java">
+    <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_2383_sol.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="166" column="31" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+        <state relative-caret-position="332">
+          <caret line="134" column="12" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4545#4546#0" expanded="true" />
+            <element signature="e#4609#4610#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/SWEA_2383.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-571">
+          <caret line="104" column="81" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="81" />
         </state>
       </provider>
     </entry>
